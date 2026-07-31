@@ -5,8 +5,8 @@
 %global crate autocfg
 
 Name:           rust-%{crate}
-Version:        1.0.0
-Release:        2%{?dist}
+Version:        1.5.1
+Release:        1%{?dist}
 Summary:        Automatic cfg for Rust compiler features
 
 # Upstream license specification: Apache-2.0 OR MIT
